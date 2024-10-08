@@ -1,0 +1,59 @@
+.first_page {
+    margin: 10px;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    background-color: rgb(218, 123, 8);
+    height: 600px;
+}
+
+.first_page div {
+    float: left;
+
+}
+
+.image {
+
+    margin-left: -3px;
+    padding-top: 220px;
+}
+
+
+.about {
+
+    padding-top: 200px;
+    padding-left: 70px;
+    color: white;
+
+}
+
+.name {
+    color: white;
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.date {
+    color: rgb(230, 228, 228);
+
+    margin-top: -44px;
+}
+
+.second_page {
+    margin: 10px;
+
+
+    height: 2500px;
+}
+
+.info {
+
+    width: 700px;
+    margin: auto;
+    padding-top: 100px;
+
+}
+
+.info h1 {
+    text-align: center;
+}
